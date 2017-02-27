@@ -13,8 +13,8 @@ This sample uses the Gradle build system. To build this project, use the "gradle
 
 ### Screenshots
 
-<img src="docs/screenshots/pic1.png" width="480" height="270"/>
-<img src="docs/screenshots/pic2.png" width="480" height="270"/>
+<img src="docs/screenshots/pic2.png" height="480" width="270"/>
+<img src="docs/screenshots/pic1.png" height="480" width="270"/>
 
 
 ### Contribution
